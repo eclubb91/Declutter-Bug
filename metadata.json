@@ -1,0 +1,5 @@
+{
+  "name": "Custom Home Inventory Manager",
+  "description": "A cross-platform mobile application to manage home inventory with a hierarchical structure, custom properties, recursive copy/paste, and a dedicated tagging system for organizing items.",
+  "requestFramePermissions": []
+}
